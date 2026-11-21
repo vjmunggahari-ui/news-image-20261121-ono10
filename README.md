@@ -1,8 +1,8 @@
 # The World Today — Saturday 21 November 2026
 
 [![news-image-20261121 bounty](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
-[![rank](https://make.fun/badge/news-image-20261121/Indramunggahari10/news-image-20261121-ono10/rank.svg)](https://make.fun/bounty/news-image-20261121)
-[![reward](https://make.fun/badge/news-image-20261121/Indramunggahari10/news-image-20261121-ono10/reward.svg)](https://make.fun/bounty/news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/vjmunggahari-ui/news-image-20261121-ono10/rank.svg)](https://make.fun/bounty/news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/vjmunggahari-ui/news-image-20261121-ono10/reward.svg)](https://make.fun/bounty/news-image-20261121)
 
 A make.fun entry for
 [news-image-20261121](https://make.fun/bounty/news-image-20261121): sum up
